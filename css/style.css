@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.letraComida{
+    color: rgb(134, 52, 226);
+}
+
+.aa-support-area{
+    display: flex;
+}
+
+.bgred{
+    background-color: rgb(134, 52, 226);
+}
